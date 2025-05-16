@@ -1,7 +1,7 @@
 # Streamlit
 ## Prueba de uso de Streamlit
 
-# *Para ejecutar:*
+### *Para ejecutar:*
 
 ```(bash)
 docker compose build
@@ -17,6 +17,6 @@ Los registros se pueden inspeccionar mediante:
 docker compose logs
 ```
 
-# *Depuración*
+### *Depuración*
 
 Para modificar y depurar la aplicación: [link](https://davidefiocco.github.io/debugging-containers-with-vs-code) puede ser útil (¡y bastante divertido!).
